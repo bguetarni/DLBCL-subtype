@@ -24,7 +24,7 @@
 
 ## Installation
 
-Please make sure the following packages are.
+Please make sure the following packages are installed.
 
     - einops
     - numpy
